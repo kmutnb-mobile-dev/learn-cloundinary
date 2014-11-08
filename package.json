@@ -1,0 +1,16 @@
+{
+  "name": "learn-cloundinary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.0.12",
+    "express": "~4.9.x",
+    "multer": "^0.1.6"
+  }
+}
